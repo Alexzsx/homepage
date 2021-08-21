@@ -47,12 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. You can [download this free resume/CV template here]().
-      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      # Donec quam felis, ultricies nec, pellentesque eu.
-      # Second paragraph if required.
+#      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      # adipiscing elit. You can [download this free resume/CV template here]().
+
       Shixiong Zhang (his academic family tree) received his Ph.D. Degree in 
       Department of Computer Science at City University of Hong Kong  in 2020 
       under the supervision of Dr. Ka-Chun Wong. His broad research interests 
@@ -64,42 +61,42 @@ education:
       time: 2017 - 2020
       details: |
         Supervised by Dr. Ka-Chun WONG (Ph.D. University of Toronto)
-        #  - Bullet point
-        #  - Bullet point
+ #       #  - Bullet point
+ #       #  - Bullet point
     - degree: MSc in Management Statistics
       university: Zhejiang University of Finance and Economics
       time: 2014 - 2017
       details: |
         Supervised by Prof. Wenyu ZHANG (Ph.D. NTU Singapore)
-        #  - Bullet point
-        #  - Bullet point
+#        #  - Bullet point
+#        #  - Bullet point
     - degree: BSc in Information Management and Information System
       university: Zhejiang University of Finance and Economics
       time: 2010 - 2014
       details: |
         # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #  - Bullet point
-        #  - Bullet point
+#        #  - Bullet point
+#        #  - Bullet point
 experiences:
     - role: Associate Professor
       time: 2020 - Present
       company: Xidian University, Xi'an, China
       details: |
-        # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #  - Bullet point
-        #  - Bullet point
+#        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+##        #  - Bullet point
+#        #  - Bullet point
     - role: Research Trainee
       time: 2019 - 2020
       company: Wilmer Eye Institute, Johns Hopkins School of Medicine, MD, USA
       details: |
-        # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #  - Bullet point
-        #  - Bullet point
+#        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        #  - Bullet point
+#        #  - Bullet point
 
 projects:
     title: Fundings
     intro: >
-      # You can list your side projects or open source libraries in this section
+#      You can list your side projects or open source libraries in this section
     assignments:
       - title: Velocity
         link: "#hook"
