@@ -70,7 +70,7 @@ education:
       university: Zhejiang University of Finance and Economics
       time: 2010 - 2014
       details: |
-        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+ #      Describe your study here lorem ipsum dolor sit amet, consectetuer
  #      - Bullet point
 experiences:
     - role: Associate Professor
