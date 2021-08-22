@@ -97,22 +97,7 @@ publications:
     title: Publications
   #  intro: |
   #    You can list your publications in this section. Lorem ipsum dolor sit
-    papers:
-      - title: Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning
-        link: "academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa191/5814052"
-        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Jiecong Lin, Ka-Chun Wong
-        conference: Nucleic Acids Research, 2020 IF 2018 = 11.147
-
-      - title: "Nature-Inspired Compressed Sensing for Transcriptomic Profiling from Random Composite Measurement"
-        link: "ieeexplore.ieee.org/document/8906045"
-        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong
-        conference: "IEEE Transactions on Cybernetics (2019) IF 2018 = 10.387"
-
-      - title: Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications
-        link: "academic.oup.com/bioinformatics/article/35/7/1108/5088326"
-        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong
-        conference: "Bioinformatics 35 (7), 1108-1115. (2019) IF 2017 = 5.481"
-        
+    papers:    
       - title: Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning
         link: "http://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa191/5814052"
         authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Jiecong Lin, Ka-Chun Wong*
@@ -129,7 +114,7 @@ publications:
         conference: "Bioinformatics 35 (7), 1108-1115. (2019) IF 2017 = 5.481"
         
       - title: Review of Single-cell RNA-seq Data Clustering for Cell Type Identification and Characterization
-        link: "https://arxiv.org/abs/2001.01006v1?utm_source=dlvr.it\&utm_medium=twitter"
+        link: "https://arxiv.org/abs/2001.01006"
         authors: Shixiong Zhang, Xiangtao Li, Jiecong Lin, Qiuzhen Lin, Ka-Chun Wong*
         conference: "arXiv (2019)"
         
