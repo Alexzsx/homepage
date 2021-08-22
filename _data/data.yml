@@ -50,7 +50,6 @@ career-profile:
 #     Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can [download this free resume/CV template here]().
 
 experiences:
-    title: Work Experiences
     - role: Associate Professor
       time: 2020 - Present
       company: Xidian University, Xi'an, China
