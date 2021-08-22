@@ -28,14 +28,15 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: Mandarin
-        level: Native
+#    languages:
+#      - idiom: Mandarin
+#        level: Native
 
-      - idiom: English
-        level: Professional
+#      - idiom: English
+#        level: Professional
 
     interests:
+      title: Research Interests
       - item: Bioinformatics
         link:
         
@@ -63,7 +64,7 @@ experiences:
       time: 2019 - 2020
       company: <a href="http://bioinfo.wilmer.jhu.edu/" target="_blank" rel="nofollow">Wilmer Eye Institute</a>, Johns Hopkins School of Medicine, MD, USA
       details: |
-        Advised by <a href="https://www.hopkinsmedicine.org/profiles/results/directory/profile/9667885/jiang-qian" target="_blank" rel="nofollow">Prof. JiangQian</a> (Ph.D. Max Planck Institute)
+        Advised by <a href="https://www.hopkinsmedicine.org/profiles/results/directory/profile/9667885/jiang-qian" target="_blank" rel="nofollow">Prof. Jiang QIAN</a> (Ph.D. Max Planck Institute)
  #      - Bullet point
 
 education:
@@ -71,7 +72,7 @@ education:
       university: City University of Hong Kong
       time: 2017 - 2020
       details: |
-        Supervised by <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun Wong</a> (Ph.D. University of Toronto)
+        Supervised by <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun WONG</a> (Ph.D. University of Toronto)
  #      - Bullet point
     - degree: MSc in Management Statistics
       university: Zhejiang University of Finance and Economics
@@ -91,7 +92,7 @@ projects:
     intro: >
 #      You can list your side projects or open source libraries in this section
     assignments:
-      - title: Project supported by the National Science Foundation for Young Scholars of China
+      - title: Project supported by the National Natural Science Foundation for Young Scholars of China
         link: 
         tagline: 2021 #"A responsive website template designed to help startups promote, market and sell their products."
 
