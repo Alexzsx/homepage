@@ -98,20 +98,20 @@ publications:
   #  intro: |
   #    You can list your publications in this section. Lorem ipsum dolor sit
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning
+        link: "academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa191/5814052"
+        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Jiecong Lin, Ka-Chun Wong
+        conference: Nucleic Acids Research, 2020 IF 2018 = 11.147
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Nature-Inspired Compressed Sensing for Transcriptomic Profiling from Random Composite Measurement"
+        link: "ieeexplore.ieee.org/document/8906045"
+        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong
+        conference: "IEEE Transactions on Cybernetics (2019) IF 2018 = 10.387"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications
+        link: "academic.oup.com/bioinformatics/article/35/7/1108/5088326"
+        authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong
+        conference: "Bioinformatics 35 (7), 1108-1115. (2019) IF 2017 = 5.481"
 
 #skills:
 #    title: Skills &amp; Proficiency
