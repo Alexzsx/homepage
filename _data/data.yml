@@ -15,9 +15,10 @@ sidebar:
     email: zhangsx@xidian.edu.cn
     #phone: 012 345 6789
     website: faculty.xidian.edu.cn/sxzhang/en/index.htm #do not add http://
+    researchgate: Shixiong-Zhang-2
     linkedin: 
     xing: 
-    github: 
+    github: #alexzsx
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -49,29 +50,9 @@ career-profile:
     summary: |
       Shixiong Zhang (his academic family tree) received his Ph.D. Degree in 
       Department of Computer Science at City University of Hong Kong  in 2020 
-      under the supervision of Dr. Ka-Chun Wong. His broad research interests 
-      include Bioinformatics, Computational Intelligence, and Applied Machine Learning.
+      under the supervision of <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun Wong</a>. 
 #     Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can [download this free resume/CV template here]().
 
-education:
-    - degree: Phd in Computer Science
-      university: City University of Hong Kong
-      time: 2017 - 2020
-      details: |
-        Supervised by Dr. Ka-Chun WONG (Ph.D. University of Toronto)
- #      - Bullet point
-    - degree: MSc in Management Statistics
-      university: Zhejiang University of Finance and Economics
-      time: 2014 - 2017
-      details: |
-        Supervised by Prof. Wenyu ZHANG (Ph.D. NTU Singapore)
- #      - Bullet point
-    - degree: BSc in Information Management and Information System
-      university: Zhejiang University of Finance and Economics
-      time: 2010 - 2014
-      details: |
- #      Describe your study here lorem ipsum dolor sit amet, consectetuer
- #      - Bullet point
 experiences:
     - role: Associate Professor
       time: 2020 - Present
@@ -80,8 +61,29 @@ experiences:
  #      - Bullet point
     - role: Research Trainee
       time: 2019 - 2020
-      company: Wilmer Eye Institute, Johns Hopkins School of Medicine, MD, USA
+      company: <a href="http://bioinfo.wilmer.jhu.edu/" target="_blank" rel="nofollow">Wilmer Eye Institute</a>, Johns Hopkins School of Medicine, MD, USA
       details: |
+        Advised by <a href="https://www.hopkinsmedicine.org/profiles/results/directory/profile/9667885/jiang-qian" target="_blank" rel="nofollow">Prof. JiangQian</a> (Ph.D. Max Planck Institute)
+ #      - Bullet point
+
+education:
+    - degree: Phd in Computer Science
+      university: City University of Hong Kong
+      time: 2017 - 2020
+      details: |
+        Supervised by <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun Wong</a> (Ph.D. University of Toronto)
+ #      - Bullet point
+    - degree: MSc in Management Statistics
+      university: Zhejiang University of Finance and Economics
+      time: 2014 - 2017
+      details: |
+        Supervised by <a href="https://info.zufe.edu.cn/info/1049/5085.htm" target="_blank" rel="nofollow">Prof. Wenyu ZHANG</a> (Ph.D. NTU Singapore)
+ #      - Bullet point
+    - degree: BSc in Information Management and Information System
+      university: Zhejiang University of Finance and Economics
+      time: 2010 - 2014
+      details: |
+ #      Describe your study here lorem ipsum dolor sit amet, consectetuer
  #      - Bullet point
 
 projects:
@@ -89,9 +91,9 @@ projects:
     intro: >
 #      You can list your side projects or open source libraries in this section
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Project supported by the National Science Foundation for Young Scholars of China
+        link: 
+        tagline: 2021 #"A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -197,4 +199,4 @@ publications:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
