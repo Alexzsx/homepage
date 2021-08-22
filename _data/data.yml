@@ -98,7 +98,7 @@ publications:
   #  intro: |
   #    You can list your publications in this section. Lorem ipsum dolor sit
     papers:    
-      - title: Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning
+      - title: "Uncovering the Key Dimensions of High-Throughput Biomolecular Data using Deep Learning"
         link: "http://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa191/5814052"
         authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Jiecong Lin, Ka-Chun Wong*
         conference: Nucleic Acids Research, (2020) IF 2018 = 11.147
@@ -108,67 +108,67 @@ publications:
         authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong*
         conference: "IEEE Transactions on Cybernetics (2019) IF 2018 = 10.387"
 
-      - title: Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications
+      - title: "Synergizing CRISPR/Cas9 Off-target Predictions for Ensemble Insights and Practical Applications"
         link: "http://academic.oup.com/bioinformatics/article/35/7/1108/5088326"
         authors: Shixiong Zhang, Xiangtao Li, Qiuzhen Lin, Ka-Chun Wong*
         conference: "Bioinformatics 35 (7), 1108-1115. (2019) IF 2017 = 5.481"
         
-      - title: Review of Single-cell RNA-seq Data Clustering for Cell Type Identification and Characterization
+      - title: "Review of Single-cell RNA-seq Data Clustering for Cell Type Identification and Characterization"
         link: "https://arxiv.org/abs/2001.01006"
         authors: Shixiong Zhang, Xiangtao Li, Jiecong Lin, Qiuzhen Lin, Ka-Chun Wong*
         conference: "arXiv (2019)"
         
-      - title: Deep embedded clustering with multiple objectives on scRNA-seq data
+      - title: "Deep embedded clustering with multiple objectives on scRNA-seq data"
         link: "https://doi.org/10.1093/bib/bbab090"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
         conference: "Briefings in Bioinformatics (2021)"
         
-      - title: Identification of Pan-cancer Ras Pathway Activation with Deep Learning
+      - title: "Identification of Pan-cancer Ras Pathway Activation with Deep Learning"
         link: "https://dx.doi.org/10.1093/bib/bbaa258"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong
         conference: "Briefings in Bioinformatics (2020)"
         
-      - title: RISPR-Net: A Recurrent Convolutional Network quantifies CRISPR Off-target Activities with Mismatches and Indels
+      - title: "RISPR-Net: A Recurrent Convolutional Network quantifies CRISPR Off-target Activities with Mismatches and Indels"
         link: "https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201903562"
         authors: Jiecong Lin, Zhaolei Zhang, Shixiong Zhang, Junyi Chen, Ka-Chun Wong*
         conference: "Advanced Sciences (2020)"      
         
-      - title: Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data
+      - title: "Multiobjective Genome-Wide RNA-Binding Event Identification from CLIP-seq Data"
         link: "https://ieeexplore.ieee.org/document/8955943"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
         conference: "IEEE Transactions on Cybernetics (2019)"
         
-      - title: Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning
+      - title: "Single-cell RNA-seq Interpretations using Evolutionary Multiobjective Ensemble Pruning"
         link: "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty1056/5265329"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
         conference: "Bioinformatics (2019)"
         
-      - title: Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization
+      - title: "Evolving Transcriptomic Profiles from Single-cell RNA-seq Data using Nature-Inspired Multiobjective Optimization"
         link: "https://ieeexplore.ieee.org/document/8985318"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
         conference: "IEEE/ACM Transactions on Computational Biology and Bioinformatics (2019)"
         
-      - title: Early Cancer Detection from Multianalyte Blood Test Results
+      - title: "Early Cancer Detection from Multianalyte Blood Test Results"
         link: "https://www.sciencedirect.com/science/article/pii/S2589004219301324"
         authors: Ka-Chun Wong*, Junyi Chen, Jiao Zhang, Jiecong Lin, Shankai Yan, Shixiong Zhang, Xiangtao Li, Cheng Liang, Chengbing Peng, Sam Kwong
         conference: "iScience (2018)"
 
-      - title: Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies
+      - title: "Nature-Inspired Multiobjective Epistasis Elucidation from Genome-Wide Association Studies"
         link: "https://ieeexplore.ieee.org/document/8392720"
         authors: Xiangtao Li, Shixiong Zhang, Ka-Chun Wong*
         conference: "IEEE/ACM Transactions on Computational Biology and Bioinformatics (2018)"
         
-      - title: Two-factor High-order Fuzzy-trend FTS Model based on BSO-FCM and Improved KA for TAIEX Stock Forecasting
+      - title: "Two-factor High-order Fuzzy-trend FTS Model based on BSO-FCM and Improved KA for TAIEX Stock Forecasting"
         link: "https://link.springer.com/article/10.1007/s11071-018-4433-5"
         authors: Wenyu Zhang, Shixiong Zhang, Shuai Zhang*
         conference: "Nonlinear Dynamics (2018)"
         
-      - title: A Novel Method Based on FTS with Both GA-FCM and Multifactor BPNN for Stock Forecasting
+      - title: "A Novel Method Based on FTS with Both GA-FCM and Multifactor BPNN for Stock Forecasting"
         link: "https://link.springer.com/article/10.1007/s00500-018-3335-2"
         authors: Wenyu Zhang, Shixiong Zhang, Shuai Zhang*, Dejiang Yu, Ningning Huang
         conference: "Soft Computing (2018)"
         
-      - title: A Multi-factor and High-order Stock Forecast Model Based on Type-2 FTS Using Cuckoo Search and Self-adaptive Harmony Search
+      - title: "A Multi-factor and High-order Stock Forecast Model Based on Type-2 FTS Using Cuckoo Search and Self-adaptive Harmony Search"
         link: "https://www.sciencedirect.com/science/article/pii/S0925231217303454"
         authors: Wenyu Zhang*, Shixiong Zhang, Shuai Zhang, Dejiang Yu, Ningning Huang
         conference: "Neurocomputing (2017)"
