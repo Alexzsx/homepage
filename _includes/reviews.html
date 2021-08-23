@@ -33,6 +33,30 @@
 
     </div><!--//item-->
   {% endfor %}
+  
+  {% if reviews.intro1 %}
+  <div class="intro">
+      <p>{{ reviews.intro1 }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for review1 in reviews.assignments1 %}
+    <div class="item">
+
+      <span class="review-title">
+        {% if review1.link1 %}
+        <a href="{{ review1.link1 }}" target="_blank">{{ review1.title1 }}</a>
+        {% else %}
+        {{ review1.title1 }}
+        {% endif %}
+      </span>
+
+      {% if review1.tagline1 %}
+      - <span class="review-tagline">{{ review1.tagline1 }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
