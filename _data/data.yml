@@ -195,6 +195,32 @@ awards:
       - title: National Scholarship
         link: 
         tagline: Ministry of Education, China, 2016
+        
+reviews:
+    title: review services
+    intro: >
+#      You can list your side projects or open source libraries in this section
+    Journals
+    assignments:
+      - title: Advances in Mechanical Engineering
+        link: https://www.journals.elsevier.com/applied-soft-computing
+        tagline: 
+      
+      - title: Applied Soft Computing
+        link: https://www.journals.elsevier.com/applied-soft-computing
+        tagline: 
+        
+      - title: BioData Mining
+        link: https://biodatamining.biomedcentral.com/
+        tagline: 
+      
+      - title: Biology
+        link: https://www.mdpi.com/journal/biology
+        tagline: 
+        
+      - title: Biosensors
+        link: https://www.mdpi.com/journal/biosensors
+        tagline: 
 #skills:
 #    title: Skills &amp; Proficiency
 
