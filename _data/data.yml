@@ -89,7 +89,7 @@ projects:
     assignments:
       - title: Project supported by the National Natural Science Foundation for Young Scholars of China
         link: 
-        tagline: 2021 (16.7%) #"A responsive website template designed to help startups promote, market and sell their products."
+        tagline: 2021 #"A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -104,7 +104,7 @@ publications:
       - title: "Feature Selection and Feature Extraction: Highlights"
         link: "https://dl.acm.org/doi/10.1145/3461598.3461606"
         authors: Hiu-Man Wong, Xingjian Chen, Hiu-Hin Tam, Jiecong Lin, Shixiong Zhang, Shankai Yan, Xiangtao Li, Ka-Chun Wong*
-        conference: "ISMSI 2021: 5th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence"          
+        conference: "ISMSI (2021)"          
     
       - title: "Deep embedded clustering with multiple objectives on scRNA-seq data"
         link: "https://doi.org/10.1093/bib/bbab090"
