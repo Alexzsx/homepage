@@ -219,6 +219,75 @@ reviews:
       - title: Biosensors
         link: https://www.mdpi.com/journal/biosensors
         tagline: 
+
+      - title: Briefings in Bioinformatics
+        link: https://academic.oup.com/bib/
+        tagline:        
+        
+      - title: Computer Modeling in Engineering & Sciences
+        link: https://www.techscience.com/cmes/
+        tagline:         
+        
+      - title: Engineering Applications of Artificial Intelligence
+        link: https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence
+        tagline:         
+        
+      - title: Frontiers in Bioengineering and Biotechnology
+        link: https://www.frontiersin.org/journals/bioengineering-and-biotechnology#
+        tagline:         
+        
+      - title: Frontiers in Genetics
+        link: https://www.frontiersin.org/journals/genetics#
+        tagline:         
+        
+      - title: Frontiers in Plant Science
+        link: https://www.frontiersin.org/journals/plant-science#
+        tagline:         
+        
+      - title: Healthcare
+        link: https://www.mdpi.com/journal/healthcare
+        tagline:         
+        
+      - title: IEEE Journal of Biomedical and Health Informatics
+        link: https://jbhi.embs.org/
+        tagline:         
+        
+      - title: International Journal of Environmental Research and Public Health
+        link: https://www.mdpi.com/journal/ijerph
+        tagline:         
+        
+      - title: International Journal of Molecular Sciences
+        link: https://www.mdpi.com/journal/ijms
+        tagline:         
+        
+      - title: Genes
+        link: https://www.mdpi.com/journal/genes
+        tagline:        
+        
+      - title: Mathematical Biosciences and Engineering
+        link: http://aimspress.com/journal/mbe
+        tagline:        
+        
+      - title: Micromachines
+        link: https://www.mdpi.com/journal/micromachines
+        tagline:        
+        
+      - title: Neural Computing and Applications
+        link: https://link.springer.com/journal/521
+        tagline:        
+        
+      - title: Nonlinear Dynamics
+        link: https://www.springer.com/journal/11071
+        tagline:            
+        
+      - title: Pathogens
+        link: https://www.mdpi.com/journal/pathogens
+        tagline:       
+        
+      - title: PeerJ Computer Science
+        link: https://peerj.com/computer-science/
+        tagline:               
+       
 #skills:
 #    title: Skills &amp; Proficiency
 
