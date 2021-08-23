@@ -171,6 +171,14 @@ publications:
         authors: Wenyu Zhang*, Shixiong Zhang, Shuai Zhang, Dejiang Yu, Ningning Huang
         conference: "Neurocomputing (2017)"
 
+adards:
+    title: Scholarships and Awards
+    intro: >
+#      You can list your side projects or open source libraries in this section
+    assignments:
+      - title: Outstanding Academic Performance Award
+        link: 
+        tagline: City University of Hong Kong, 2020, 2019, 2018 #"A responsive website template designed to help startups promote, market and sell their products."
 #skills:
 #    title: Skills &amp; Proficiency
 
