@@ -288,6 +288,7 @@ reviews:
       - title: PeerJ Computer Science
         link: https://peerj.com/computer-science/
         tagline:                 
+    
     intro1: >
       Conferences
     assignments1:
@@ -327,7 +328,7 @@ reviews:
         link1: http://www.ismsi.us/
         tagline1:
         
-      - title1: CFMAI2020
+      - title1: CFMAI 2020
         link1: http://www.cfmai.org/
         tagline1:                  
         
