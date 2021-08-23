@@ -89,7 +89,7 @@ projects:
     assignments:
       - title: Project supported by the National Natural Science Foundation for Young Scholars of China
         link: 
-        tagline: 2021 #"A responsive website template designed to help startups promote, market and sell their products."
+        tagline: 2021 (16.7%) #"A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
@@ -171,7 +171,7 @@ publications:
         authors: Wenyu Zhang*, Shixiong Zhang, Shuai Zhang, Dejiang Yu, Ningning Huang
         conference: "Neurocomputing (2017)"
 
-adards:
+awards:
     title: Scholarships and Awards
     intro: >
 #      You can list your side projects or open source libraries in this section
