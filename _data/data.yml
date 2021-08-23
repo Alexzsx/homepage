@@ -199,6 +199,7 @@ awards:
 reviews:
     title: review services
     intro: >
+      Journals
     assignments:
       - title: Advances in Mechanical Engineering
         link: https://www.journals.elsevier.com/applied-soft-computing
@@ -287,7 +288,89 @@ reviews:
       - title: PeerJ Computer Science
         link: https://peerj.com/computer-science/
         tagline:               
-       
+    
+    intro1: >
+      Conferences
+    assignments1:
+      - title1: CCEAI 2022
+        link1: https://www.cceai.org/index.html
+        tagline1: 
+      
+      - title1: DMCIT 2021
+        link1: http://www.cfmai.org/
+        tagline1: 
+        
+      - title1: DSIT 2021 2018
+        link1: http://dsit2021.net/index.html
+        tagline1: 
+      
+       - title1: ICBRA 2021
+        link1: http://icbra.org/com.html
+        tagline1: 
+        
+      - title1: IEEE ICCCS 2021
+        link1: https://www.icccs.org/
+        tagline1: 
+
+      - title1: ICIC 2021 2019
+        link1: http://www.ic-icc.cn/2021/index.htm
+        tagline1:        
+        
+      - title1: ICONIP 2021 2020
+        link1: https://iconip2021.apnns.org
+        tagline1:  
+        
+      - title1: ISCMI 2021 2020 2019 2018
+        link1: http://www.iscmi.us/
+        tagline1:
+        
+      - title1: ISMSI 2021 2020 2019 2018
+        link1: http://www.ismsi.us/
+        tagline1:
+        
+      - title1: CFMAI2020
+        link1: http://www.cfmai.org/
+        tagline1:                  
+        
+      - title1: ACM ICMLC 2019
+        link1: http://www.icmlc.org/
+        tagline1:         
+        
+      - title1: BiCOB 2019
+        link1: https://sceweb.uhcl.edu/bicob19/
+        tagline1:      
+        
+      - title1: BiGCOM 2019
+        link1: http://staff.ustc.edu.cn/~bigcom2019/About.html
+        tagline1:          
+        
+      - title1: DMBD 2019
+        link1: http://dmbd2019.ic-si.org/
+        tagline1:      
+        
+      - title1: ICBDE 2019
+        link1: http://www.icbde.org/
+        tagline1:                     
+        
+      - title1: APBC 2018
+        link1: http://apbc2018.bio.keio.ac.jp/
+        tagline1:    
+        
+      - title1: BiCOB 2018
+        link1: https://sceweb.uhcl.edu/bicob18/
+        tagline1:        
+        
+      - title1: ICSI 2018
+        link1: http://www.ic-si.org/2018/
+        tagline1:       
+        
+      - title1: IEEE BigData 2018
+        link1: http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html
+        tagline1:        
+        
+      - title1: PIC 2018
+        link1: https://pic2018.tongji.edu.cn/
+        tagline1:            
 #skills:
 #    title: Skills &amp; Proficiency
 
