@@ -16,14 +16,14 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in reviews.assignments %}
+  {% for review in reviews.assignments %}
     <div class="item">
 
       <span class="review-title">
         {% if review.link %}
         <a href="{{ review.link }}" target="_blank">{{ review.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ review.title }}
         {% endif %}
       </span>
 
