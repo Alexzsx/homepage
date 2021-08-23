@@ -199,8 +199,6 @@ awards:
 reviews:
     title: review services
     intro: >
-#      You can list your side projects or open source libraries in this section
-    Journals
     assignments:
       - title: Advances in Mechanical Engineering
         link: https://www.journals.elsevier.com/applied-soft-computing
