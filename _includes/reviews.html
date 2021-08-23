@@ -1,0 +1,38 @@
+{% assign projects = site.data.data.reviews %}
+{% if reviews %}
+<section class="section reviews-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ reviews.title }}
+  </h2>
+
+  {% if reviews.intro %}
+  <div class="intro">
+      <p>{{ reviews.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in reviews.assignments %}
+    <div class="item">
+
+      <span class="review-title">
+        {% if review.link %}
+        <a href="{{ review.link }}" target="_blank">{{ review.title }}</a>
+        {% else %}
+        {{ project.title }}
+        {% endif %}
+      </span>
+
+      {% if review.tagline %}
+      - <span class="review-tagline">{{ review.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
