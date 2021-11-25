@@ -316,9 +316,9 @@ reviews:
         tagline: 
         
     intro1: >
-      Conferences
+      Conferences (PCM for Program Committee Member)
     assignments1:
-      - title1: CCEAI 2022 (Program Committee Member)
+      - title1: CCEAI 2022 (PCM)
         link1: https://www.cceai.org/index.html
         tagline1: 
       
@@ -326,7 +326,7 @@ reviews:
         link1: https://www.dmcit.net/index.html
         tagline1: 
         
-      - title1: DSIT 2021 2018 (Program Committee Member)
+      - title1: DSIT 2021 (PCM) 2018 (PCM)
         link1: http://dsit2021.net/index.html
         tagline1: 
       
@@ -334,27 +334,27 @@ reviews:
         link1: http://icbra.org/com.html
         tagline1: 
         
-      - title1: ICCCS 2022 2021 (Program Committee Member)
+      - title1: ICCCS 2022 (PCM) 2021 (PCM)
         link1: http://icccs.org/index.html
         tagline1: 
 
-      - title1: ICIC 2021 (Program Committee Member) 2020 2019
+      - title1: ICIC 2022 (PCM) 2021 (PCM) 2020 2019
         link1: http://www.ic-icc.cn/2021/index.htm
         tagline1:        
         
-      - title1: ICONIP 2021 2020 (Program Committee Member)
+      - title1: ICONIP 2021 (PCM) 2020 (PCM)
         link1: https://iconip2021.apnns.org
         tagline1:  
         
-      - title1: ISCMI 2021 2020 2019 2018 (Program Committee Member)
+      - title1: ISCMI 2021 2020 2019 2018 (PCM for all)
         link1: http://www.iscmi.us/
         tagline1:
         
-      - title1: ISMSI 2021 2020 2019 2018 (Program Committee Member)
+      - title1: ISMSI 2021 2020 2019 2018 (PCM for all)
         link1: http://www.ismsi.us/
         tagline1:
         
-      - title1: CFMAI 2021 2020 (Program Committee Member)
+      - title1: CFMAI 2021 2020 (PCM for all)
         link1: http://www.cfmai.org/
         tagline1:                  
         
