@@ -41,6 +41,9 @@ sidebar:
       - item: Machine Learning
         link:
         
+      - item: Financial Time Series Forecasting
+        link:
+        
 career-profile:
     title: Introduction
     summary: |
@@ -207,9 +210,9 @@ awards:
         tagline: Ministry of Education, China, 2016
         
 reviews:
-    title: review services
+    title: Professional Activities
     intro: >
-      Journals
+      Journal Reviewer
     assignments:
       - title: Advances in Mechanical Engineering
         link: https://www.journals.elsevier.com/applied-soft-computing
@@ -316,9 +319,9 @@ reviews:
         tagline: 
         
     intro1: >
-      Conferences (PCM for Program Committee Member)
+      Conference Reviewer/Program Committee (PC)/Technical Committee (TC)/ Organizer (O)
     assignments1:
-      - title1: CCEAI 2022 (PCM)
+      - title1: CCEAI 2022 (PC)
         link1: https://www.cceai.org/index.html
         tagline1: 
       
@@ -326,35 +329,35 @@ reviews:
         link1: https://www.dmcit.net/index.html
         tagline1: 
         
-      - title1: DSIT 2021 (PCM) 2018 (PCM)
+      - title1: DSIT 2021 (PC) 2018 (PC)
         link1: http://dsit2021.net/index.html
         tagline1: 
       
-      - title1: ICBRA 2021 (Technical Committee Member)
+      - title1: ICBRA 2021 (TC)
         link1: http://icbra.org/com.html
         tagline1: 
         
-      - title1: ICCCS 2022 (PCM) 2021 (PCM)
+      - title1: ICCCS 2022 (PC) 2021 (PC)
         link1: http://icccs.org/index.html
         tagline1: 
 
-      - title1: ICIC 2022 (PCM) 2021 (PCM) 2020 2019
+      - title1: ICIC 2022 (PC) 2021 (PC) 2020 2019
         link1: http://www.ic-icc.cn/2021/index.htm
         tagline1:        
         
-      - title1: ICONIP 2021 (PCM) 2020 (PCM)
+      - title1: ICONIP 2021 (PC) 2020 (PC)
         link1: https://iconip2021.apnns.org
         tagline1:  
         
-      - title1: ISCMI 2021 2020 2019 2018 (PCM for all)
+      - title1: ISCMI 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
         link1: http://www.iscmi.us/
         tagline1:
         
-      - title1: ISMSI 2021 2020 2019 2018 (PCM for all)
+      - title1: ISMSI 2021 (PC/O) 2020 (PC) 2019 (PC) 2018 (PC)
         link1: http://www.ismsi.us/
         tagline1:
         
-      - title1: CFMAI 2021 2020 (PCM for all)
+      - title1: CFMAI 2021 (PC) 2020 (PC)
         link1: http://www.cfmai.org/
         tagline1:                  
         
