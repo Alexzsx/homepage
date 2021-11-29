@@ -321,16 +321,20 @@ reviews:
     intro1: >
       Conference Reviewer/Program Committee (PC)/Technical Committee (TC)/ Organizer (O)
     assignments1:
-      - title1: ICECE 2021 (TC)
-        link1: http://www.icece.net/
-        tagline1: 
-        
       - title1: CCEAI 2022 (PC)
         link1: https://www.cceai.org/index.html
         tagline1: 
       
-      - title1: DMCIT 2021
-        link1: https://www.dmcit.net/index.html
+      - title1: ICCCS 2022 (PC) 2021 (PC)
+        link1: http://icccs.org/index.html
+        tagline1: 
+
+      - title1: ICIC 2022 (PC) 2021 (PC) 2020 2019
+        link1: http://www.ic-icc.cn/2021/index.htm
+        tagline1: 
+        
+      - title1: ICECE 2021 (TC)
+        link1: http://www.icece.net/
         tagline1: 
         
       - title1: DSIT 2021 (PC) 2018 (PC)
@@ -340,14 +344,6 @@ reviews:
       - title1: ICBRA 2021 (TC)
         link1: http://icbra.org/com.html
         tagline1: 
-        
-      - title1: ICCCS 2022 (PC) 2021 (PC)
-        link1: http://icccs.org/index.html
-        tagline1: 
-
-      - title1: ICIC 2022 (PC) 2021 (PC) 2020 2019
-        link1: http://www.ic-icc.cn/2021/index.htm
-        tagline1:        
         
       - title1: ICONIP 2021 (PC) 2020 (PC)
         link1: https://iconip2021.apnns.org
@@ -364,6 +360,10 @@ reviews:
       - title1: CFMAI 2021 (PC) 2020 (PC)
         link1: http://www.cfmai.org/
         tagline1:                  
+        
+      - title1: DMCIT 2021
+        link1: https://www.dmcit.net/index.html
+        tagline1: 
         
       - title1: ACM ICMLC 2019
         link1: http://www.icmlc.org/
