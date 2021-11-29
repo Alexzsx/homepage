@@ -230,6 +230,10 @@ reviews:
         link: https://www.mdpi.com/journal/biology
         tagline: 
         
+      - title: Biology Open
+        link: https://journals.biologists.com/bio
+        tagline: 
+        
       - title: Bioinformatics
         link: https://academic.oup.com/bioinformatics/
         tagline: 
@@ -254,6 +258,10 @@ reviews:
         link: https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence
         tagline:         
         
+      - title: Frontiers in Bioinformatics
+        link: https://www.frontiersin.org/journals/bioinformatics#
+        tagline:         
+        
       - title: Frontiers in Bioengineering and Biotechnology
         link: https://www.frontiersin.org/journals/bioengineering-and-biotechnology#
         tagline:         
@@ -270,6 +278,10 @@ reviews:
         link: https://www.frontiersin.org/journals/plant-science#
         tagline:         
         
+      - title: Frontiers in Microbiology
+        link: https://www.frontiersin.org/journals/microbiology#
+        tagline:       
+        
       - title: Healthcare
         link: https://www.mdpi.com/journal/healthcare
         tagline:         
@@ -284,7 +296,11 @@ reviews:
         
       - title: International Journal of Molecular Sciences
         link: https://www.mdpi.com/journal/ijms
-        tagline:         
+        tagline:   
+        
+      - title: Journal of Personalized Medicine
+        link: https://www.mdpi.com/journal/jpm
+        tagline:
         
       - title: Genes
         link: https://www.mdpi.com/journal/genes
