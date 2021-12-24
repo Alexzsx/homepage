@@ -335,7 +335,7 @@ reviews:
         tagline: 
         
     intro1: >
-      Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)/ Organizer (O)
+      Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)/ Organizing Co-chair (OCC)/ Publications Co-chair(PCC)
     assignments1:
       - title1: CSAE 2022 
         link1: http://www.csaeconf.org/
@@ -365,7 +365,7 @@ reviews:
         link1: http://www.dsit2022.net/ 
         tagline1: 
       
-      - title1: ICBRA 2021 (TC)
+      - title1: ICBRA 2022 (TC) 2021 (TC)
         link1: http://icbra.org/com.html
         tagline1: 
         
@@ -373,11 +373,11 @@ reviews:
         link1: https://iconip2021.apnns.org
         tagline1:  
         
-      - title1: ISCMI 2022 (PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+      - title1: ISCMI 2022 (OCC/PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
         link1: http://www.iscmi.us/index.html
         tagline1:
         
-      - title1: ISMSI 2022 (PC/O) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+      - title1: ISMSI 2022 (PCC/PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
         link1: http://www.ismsi.org/index.html
         tagline1:
         
