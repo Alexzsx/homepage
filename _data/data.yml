@@ -337,101 +337,112 @@ reviews:
       - title: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
         link: 
         tagline: 
-        
-    intro1: >
-      Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)/ Organizing Co-chair (OCC)/ Publications Co-chair(PCC)
-    assignments1:
-      - title1: CSAE 2022 
-        link1: http://www.csaeconf.org/
-        tagline1: 
-        
-      - title1: IntelliSys 2022 (TC)
-        link1: https://saiconference.com/IntelliSys
-        tagline1: 
-        
-      - title1: CCEAI 2022 (PC)
-        link1: https://www.cceai.org/index.html
-        tagline1: 
-      
-      - title1: ICCCS 2022 (PC) 2021 (PC)
-        link1: http://icccs.org/index.html
-        tagline1: 
 
-      - title1: ICIC 2022 (PC) 2021 (PC) 2020 2019
-        link1: http://www.ic-icc.cn/2021/index.htm
-        tagline1: 
-        
-      - title1: ICECE 2021 (TC)
-        link1: http://www.icece.net/
-        tagline1: 
-        
-      - title1: DSIT 2022 (PC) 2021 (PC) 2018
-        link1: http://www.dsit2022.net/ 
-        tagline1: 
-      
-      - title1: ICBRA 2022 (TC) 2021 (TC)
-        link1: http://icbra.org/com.html
-        tagline1: 
-        
-      - title1: ICONIP 2021 (PC) 2020 (PC)
-        link1: https://iconip2021.apnns.org
-        tagline1:  
-        
-      - title1: ISCMI 2022 (OCC/PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+    intro1: >
+      Conference Chairships
+    assignments1:
+      - title1: ISCMI 2022 Organizing Co-chair
         link1: http://www.iscmi.us/index.html
         tagline1:
         
-      - title1: ISMSI 2022 (PCC/PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+      - title1: ISMSI 2022 Publications Co-chair
         link1: http://www.ismsi.org/index.html
         tagline1:
         
-      - title1: CFMAI 2021 (PC) 2020 (PC)
-        link1: http://www.cfmai.org/
-        tagline1:                  
+    intro2: >
+      Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)
+    assignments2:
+      - title2: CSAE 2022 
+        link2: http://www.csaeconf.org/
+        tagline2: 
         
-      - title1: DMCIT 2021
-        link1: https://www.dmcit.net/index.html
-        tagline1: 
+      - title2: IntelliSys 2022 (TC)
+        link2: https://saiconference.com/IntelliSys
+        tagline2: 
         
-      - title1: ACM ICMLC 2019
-        link1: http://www.icmlc.org/
-        tagline1:         
+      - title2: CCEAI 2022 (PC)
+        link2: https://www.cceai.org/index.html
+        tagline2: 
+      
+      - title2: ICCCS 2022 (PC) 2021 (PC)
+        link2: http://icccs.org/index.html
+        tagline2: 
+
+      - title2: ICIC 2022 (PC) 2021 (PC) 2020 2019
+        link2: http://www.ic-icc.cn/2021/index.htm
+        tagline2: 
         
-      - title1: BiCOB 2019
-        link1: https://sceweb.uhcl.edu/bicob19/
-        tagline1:      
+      - title2: DSIT 2022 (PC) 2021 (PC) 2018
+        link2: http://www.dsit2022.net/ 
+        tagline2: 
+      
+      - title2: ICBRA 2022 (TC) 2021 (TC)
+        link2: http://icbra.org/com.html
+        tagline2: 
         
-      - title1: BiGCOM 2019
+      - title2: ISCMI 2022 (PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+        link2: http://www.iscmi.us/index.html
+        tagline2:
+        
+      - title2: ISMSI 2022 (PC) 2021 (PC) 2020 (PC) 2019 (PC) 2018 (PC)
+        link2: http://www.ismsi.org/index.html
+        tagline2:
+        
+      - title2: ICONIP 2021 (PC) 2020 (PC)
+        link2: https://iconip2021.apnns.org
+        tagline2:  
+        
+      - title2: ICECE 2021 (TC)
+        link2: http://www.icece.net/
+        tagline2: 
+        
+      - title2: CFMAI 2021 (PC) 2020 (PC)
+        link2: http://www.cfmai.org/
+        tagline2:                  
+        
+      - title2: DMCIT 2021
+        link2: https://www.dmcit.net/index.html
+        tagline2: 
+        
+      - title2: ACM ICMLC 2019
+        link2: http://www.icmlc.org/
+        tagline2:         
+        
+      - title2: BiCOB 2019
+        link2: https://sceweb.uhcl.edu/bicob19/
+        tagline2:      
+        
+      - title2: BiGCOM 2019
         link1: http://staff.ustc.edu.cn/~bigcom2019/About.html
-        tagline1:          
+        tagline2:          
         
-      - title1: DMBD 2019
-        link1: http://dmbd2019.ic-si.org/
-        tagline1:      
+      - title2: DMBD 2019
+        link2: http://dmbd2019.ic-si.org/
+        tagline2:      
         
-      - title1: ICBDE 2019
-        link1: http://www.icbde.org/
-        tagline1:                     
+      - title2: ICBDE 2019
+        link2: http://www.icbde.org/
+        tagline2:                     
         
-      - title1: APBC 2018
-        link1: http://apbc2018.bio.keio.ac.jp/
-        tagline1:    
+      - title2: APBC 2018
+        link2: http://apbc2018.bio.keio.ac.jp/
+        tagline2:    
         
-      - title1: BiCOB 2018
-        link1: https://sceweb.uhcl.edu/bicob18/
-        tagline1:        
+      - title2: BiCOB 2018
+        link2: https://sceweb.uhcl.edu/bicob18/
+        tagline2:        
         
-      - title1: ICSI 2018
+      - title2: ICSI 2018
         link1: http://www.ic-si.org/2018/
-        tagline1:       
+        tagline2:       
         
-      - title1: IEEE BigData 2018
-        link1: http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html
-        tagline1:        
+      - title2: IEEE BigData 2018
+        link2: http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html
+        tagline2:        
         
-      - title1: PIC 2018
-        link1: https://pic2018.tongji.edu.cn/
-        tagline1:            
+      - title2: PIC 2018
+        link2: https://pic2018.tongji.edu.cn/
+        tagline2:            
 #skills:
 #    title: Skills &amp; Proficiency
 
