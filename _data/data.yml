@@ -348,13 +348,17 @@ reviews:
       - title1: ISMSI 2022 Publications Co-chair
         link1: http://www.ismsi.org/index.html
         tagline1:
+            
+      - title1: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+        link1: 
+        tagline1: 
         
-    intro2: >
+    intro: >
       Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)
-    assignments2:
-      - title2: CSAE 2022 
-        link2: http://www.csaeconf.org/
-        tagline2: 
+    assignments:
+      - title: CSAE 2022 
+        link: http://www.csaeconf.org/
+        tagline: 
         
       - title2: IntelliSys 2022 (TC)
         link2: https://saiconference.com/IntelliSys
