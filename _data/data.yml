@@ -353,12 +353,12 @@ reviews:
         link1: 
         tagline1: 
         
-    intro: >
+    intro2: >
       Conference Reviewer/ Program Committee (PC)/ Technical Committee (TC)
-    assignments:
-      - title: CSAE 2022 
-        link: http://www.csaeconf.org/
-        tagline: 
+    assignments2:
+      - title2: CSAE 2022 
+        link2: http://www.csaeconf.org/
+        tagline2: 
         
       - title2: IntelliSys 2022 (TC)
         link2: https://saiconference.com/IntelliSys
