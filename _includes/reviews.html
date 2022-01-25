@@ -57,6 +57,30 @@
 
     </div><!--//item-->
   {% endfor %}
+  
+  {% if reviews.intro2 %}
+  <div class="intro">
+      <p>{{ reviews.intro2 }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for review2 in reviews.assignments2 %}
+    <div class="item">
+
+      <span class="review-title">
+        {% if review1.link2 %}
+        <a href="{{ review2.link2 }}" target="_blank">{{ review2.title2 }}</a>
+        {% else %}
+        {{ review2.title2 }}
+        {% endif %}
+      </span>
+
+      {% if review2.tagline2 %}
+      - <span class="review-tagline">{{ review2.tagline2 }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
