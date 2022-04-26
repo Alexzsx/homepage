@@ -349,6 +349,10 @@ reviews:
         link1: http://www.ismsi.org/index.html
         tagline1:
             
+      - title2: ICCCS 2022 Session Chair
+        link2: http://icccs.org/index.html
+        tagline2: 
+        
       - title1: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
         link1: 
         tagline1: 
@@ -360,11 +364,15 @@ reviews:
         link2: http://www.csaeconf.org/
         tagline2: 
         
+      - title2: CSSE 2022 (TP)
+        link2: http://csse2022.net/
+        tagline2: 
+        
       - title2: IntelliSys 2022 (TC)
         link2: https://saiconference.com/IntelliSys
         tagline2: 
         
-      - title2: CCEAI 2022 (PC)
+      - title2: CCEAI 2023 (TP) 2022 (PC)
         link2: https://www.cceai.org/index.html
         tagline2: 
       
