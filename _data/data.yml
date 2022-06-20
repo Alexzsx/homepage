@@ -218,6 +218,10 @@ reviews:
         link: https://www.journals.elsevier.com/applied-soft-computing
         tagline: 
       
+      - title: Applied Sciences
+        link: https://www.mdpi.com/journal/applsci
+        tagline:         
+      
       - title: Applied Soft Computing
         link: https://www.journals.elsevier.com/applied-soft-computing
         tagline: 
@@ -328,6 +332,10 @@ reviews:
         
       - title: PeerJ Computer Science
         link: https://peerj.com/computer-science/
+        tagline:  
+
+      - title: PLOS Computational Biology
+        link: https://journals.plos.org/ploscompbiol/
         tagline:  
         
       - title: Scientific Reports
