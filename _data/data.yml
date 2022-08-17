@@ -262,29 +262,9 @@ reviews:
         link: https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence
         tagline:         
         
-      - title: Frontiers in Bioinformatics
-        link: https://www.frontiersin.org/journals/bioinformatics#
-        tagline:         
-        
-      - title: Frontiers in Bioengineering and Biotechnology
-        link: https://www.frontiersin.org/journals/bioengineering-and-biotechnology#
-        tagline:         
-        
-      - title: Frontiers in Cell and Developmental Biology
-        link: https://www.frontiersin.org/journals/cell-and-developmental-biology#
-        tagline:         
-        
-      - title: Frontiers in Genetics
-        link: https://www.frontiersin.org/journals/genetics#
-        tagline:         
-        
-      - title: Frontiers in Plant Science
-        link: https://www.frontiersin.org/journals/plant-science#
-        tagline:         
-        
-      - title: Frontiers in Microbiology
-        link: https://www.frontiersin.org/journals/microbiology#
-        tagline:       
+      - title: Frontiers
+        link: https://loop.frontiersin.org/people/1173807/overview
+        tagline:              
         
       - title: Healthcare
         link: https://www.mdpi.com/journal/healthcare
@@ -338,6 +318,10 @@ reviews:
         link: https://journals.plos.org/ploscompbiol/
         tagline:  
         
+      - title: Renewable Energy
+        link: https://www.journals.elsevier.com/renewable-energy
+        tagline: 
+        
       - title: Scientific Reports
         link: https://www.nature.com/srep/
         tagline: 
@@ -384,7 +368,7 @@ reviews:
         link2: https://www.cceai.org/index.html
         tagline2: 
       
-      - title2: ICCCS 2022 (PC) 2021 (PC)
+      - title2: ICCCS 2023 (PC) 2022 (PC) 2021 (PC)
         link2: http://icccs.org/index.html
         tagline2: 
 
