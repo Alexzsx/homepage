@@ -101,7 +101,7 @@ publications:
     papers:
       - title: "Efficient generation of paired single-cell multiomics profiles by deep learning"
         link: "https://doi.org/10.1002/advs.202301169"
-        authors:  Meng Lan, Shixiong Zhang*, Lin Gao
+        authors:  Meng Lan, Shixiong Zhang*, Lin Gao*
         conference: "Advanced Science (2023)" 
         
       - title: "Review of single-cell RNA-seq data clustering for cell type identification and characterization"
