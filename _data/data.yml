@@ -99,6 +99,16 @@ publications:
   #  intro: |
   #    You can list your publications in this section. Lorem ipsum dolor sit
     papers:
+      - title: "Efficient generation of paired single-cell multiomics profiles by deep learning"
+        link: "https://doi.org/10.1002/advs.202301169"
+        authors:  Meng Lan, Shixiong Zhang*, Lin Gao
+        conference: "Advanced Science (2023)" 
+        
+      - title: "Review of single-cell RNA-seq data clustering for cell type identification and characterization"
+        link: "https://doi.org/10.1261/rna.078965.121"
+        authors:  Shixiong Zhang*, Xiangtao Li, Jiecong Lin, Qiuzhen Lin, Ka-Chun Wong
+        conference: "RNA (2023)" 
+    
       - title: "Elucidating transcriptomic profiles from single-cell RNA sequencing data using nature-inspired compressed sensing"
         link: "https://doi.org/10.1093/bib/bbab125"
         authors:  Zhuohan Yu, Chuang Bian, Genggeng Liu, Shixiong Zhang, Ka-Chun Wong, Xiangtao Li*
