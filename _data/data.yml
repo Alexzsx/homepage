@@ -94,6 +94,10 @@ projects:
       - title: National Natural Science Foundation of China (NSFC Youth Fund)
         link: 
         tagline: 2021 #(Funded rate 17.29%)
+        
+      - title: Fundamental Research Funds for the Central Universities
+        link: 
+        tagline: 2023
 
 publications:
     title: Publications
