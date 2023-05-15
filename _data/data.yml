@@ -34,28 +34,30 @@ sidebar:
     interests:
       - item: Bioinformatics
         link:
+                
+      - item: Single-cell Multiomics
+        link:
         
       - item: Computational Intelligence
         link:
         
-      - item: Machine Learning
+      - item: Applied Machine Learning
         link:
-        
-      - item: Financial Time Series Forecasting
-        link:
+
         
 career-profile:
     title: Introduction
     summary: |
       Shixiong Zhang (his <a href="https://academictree.org/chemistry/tree.php?pid=801288&pnodecount=5&cnodecount=2&fontsize=1" target="_blank" rel="nofollow">academic family tree</a>) is an Associate Professor 
       in the School of Computer Science and Technology at Xidian University started from Dec. 2020. 
-      He spent 3 yeras (2017-2020) to obtain his Ph.D. in Computer Science under the mentorship of <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun Wong</a> at City University of Hong Kong. He was previously a trainee in the Lab of Prof. Jiang Qian in the School of Medicine at Johns Hopkins University. 
-      His broad research interests includs bioinformatics, computational biology, machine learning, computational intelligence, and time series forecasting. 
+      He spent 3 yeras (2017-2020) to obtain his Ph.D. in Computer Science under the mentorship of <a href="http://www.cityu.edu.hk/stfprofile/kc.w.htm" target="_blank" rel="nofollow">Dr. Ka-Chun Wong</a> at City University of Hong Kong. 
+      He was previously a trainee in the Lab of Prof. Jiang Qian in the School of Medicine at Johns Hopkins University. 
+      His broad research interests includs bioinformatics, computational biology, single-cell data analysis, applied, machine learning, computational intelligence, and time series forecasting. 
 #     Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can [download this free resume/CV template here]().
 
 experiences:
     - role: Associate Professor
-      time: 2020 - Present
+      time: 2020.12 - Present
       company: Xidian University, Xi'an, China
       details: |
  #      - Bullet point
@@ -90,14 +92,14 @@ projects:
     title: Fundings
     intro: >
 #      You can list your side projects or open source libraries in this section
-    assignments:
-      - title: National Natural Science Foundation of China (NSFC Youth Fund)
-        link: 
-        tagline: 2021 #(Funded rate 17.29%)
-        
+    assignments:  
       - title: Fundamental Research Funds for the Central Universities
         link: 
         tagline: 2023
+      - title: National Natural Science Foundation of China (NSFC Youth Fund)
+        link: 
+        tagline: 2021 #(Funded rate 17.29%)
+
 
 publications:
     title: Publications
